@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Helvetica, Arial, Helvetica, sans-serif;
+
+}
+
+
+header {
+    align-items: right;
+    display: inline;
+}
+
+h1 {
+   padding: 10%;
+   justify-content: center;
+}
+
+.start {
+    background-color: rebeccapurple;
+    color: white;
+    border-radius: 5px;
+    flex: wrap;
+}
+
+.quiz {
+    position: absolute;
+}
